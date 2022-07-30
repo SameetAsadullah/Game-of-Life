@@ -1,4 +1,1 @@
-﻿  Game.cpp
-F:\Uniii\Github Repositories\Game-of-Life\src\Game.h(50,10): warning C4101: 'c1': unreferenced local variable
-F:\Uniii\Github Repositories\Game-of-Life\src\Game.h(50,6): warning C4101: 'r1': unreferenced local variable
-  GameOfLife.vcxproj -> F:\Uniii\Github Repositories\Game-of-Life\src\x64\Debug\GameOfLife.exe
+﻿
