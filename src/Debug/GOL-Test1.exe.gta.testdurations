@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>E:\Uniii\Semester-III\DS Lab\GameOfLife\Debug\GOL-Test1.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="GameOfLife.Test1" Duration="1" />
+    <TestDuration Test="GameOfLife.Test2" Duration="1" />
+    <TestDuration Test="GameOfLife.Test3" Duration="1" />
+    <TestDuration Test="GameOfLife.CheckingUninitArray" Duration="1" />
+    <TestDuration Test="GameOfLife.CheckingAuxArray" Duration="1" />
+    <TestDuration Test="GameOfLife.CheckingFinalOutput" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
